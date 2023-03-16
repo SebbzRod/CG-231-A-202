@@ -149,7 +149,7 @@ function RotacionRealx(fig, posini, rt){
  * RotacionRealy: Aplica el angulo de rotacion rt al objeto fig.
  * ENTRADAS: fig = Objeto tipo THREE.LINE que representa el objeto grafico.
  *           posini = Posicion inicial de fig.
- *           rt = Angulo de rotacion (entero).
+ *           rt = Angulo de rotacion (number).
  */
 function RotacionRealy(fig, posini, rt){
 
